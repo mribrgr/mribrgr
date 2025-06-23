@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## Stats
+<!--## Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=mribrgr&show_icons=true&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mribrgr&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mribrgr&theme=onedark" />-->
 
 ## Certifications
 
@@ -18,6 +18,9 @@
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MauritiusBerger-9082/CA48337B1E734EFF?sharingId=32C7881C8BF7777D">
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="DP600" width="100px">
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/MauritiusBerger-9082/C04158A3BAF3CFCA?sharingId=32C7881C8BF7777D">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="AI102" width="100px">
 </a>
 
 <!-- ## Pinned Repositories
